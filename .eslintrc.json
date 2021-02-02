@@ -32,6 +32,7 @@
   },
   "rules": {
     "no-console": 1,
+    "react/no-unescaped-entities": 0,
     "react/prop-types": 0,
     "react-hooks/rules-of-hooks": 2,
     "react-hooks/exhaustive-deps": 1
